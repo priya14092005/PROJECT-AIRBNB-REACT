@@ -1,12 +1,35 @@
-# React + Vite
+# 🏠 Airbnb Private Property Rental | ReactJS Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **Airbnb Private Property Rental** frontend project built with **React JS**.  
+This project demonstrates a clean and responsive UI for browsing private property listings, with React components and modern frontend design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Features
 
-## Expanding the ESLint configuration
+- Responsive and modern UI design  
+- Property listing cards with images, prices, and locations  
+- Search bar UI (frontend only)  
+- Image carousel for property photos  
+- Built with React functional components and hooks  
+- Styled with CSS (or your styling method)  
+- Mobile-friendly layout  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 Tech Stack
+
+- React JS  
+- HTML5 & CSS3  
+- JavaScript (ES6+)  
+
+---
+
+## 🌐 Live Demo
+
+[View Live Project Here](https://project-airbnb-react.vercel.app)
+
+---
+
+
+
